@@ -64,3 +64,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Proyect 
+
+This is a personal project about a instagram clone using laravel. 
+To run de project you need to install wamp server o xampp server, create de database using file database.sql in project (copy and paste in MySql console),
+Then you need to have php 8.2.0 to use the actual laravel version and follow the instructions to install the framework.
